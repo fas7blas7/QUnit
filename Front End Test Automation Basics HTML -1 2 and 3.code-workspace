@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "1. HTML and CSS Tags and Selectors"
+		},
+		{
+			"path": "2. HTML and CSS Box Model, Containers and Flexbox"
+		},
+		{
+			"path": "3. HTML and CSS Forms and Media Queries"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3. HTML and CSS Forms and Media Queries"
+	}
+}
